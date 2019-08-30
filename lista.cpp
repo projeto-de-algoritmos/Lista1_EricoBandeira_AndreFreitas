@@ -203,7 +203,7 @@ int main()
 
 	cout << "-------------" << endl;
 
-	g.isSC() ? cout << "O Graf0 é fortemente conectado\n" : cout << "O Grafo não é fortemente conectado\n";
+	g.isSC() ? cout << "O Grafo é fortemente conectado\n" : cout << "O Grafo não é fortemente conectado\n";
 
 	return 0;
 }
